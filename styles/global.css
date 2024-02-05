@@ -9,8 +9,16 @@ body{
   background-color: #363636;
   color: White;  
 }
-body::-webkit-scrollbar{
-  display: none;
+::-webkit-scrollbar{
+    width: 15px;
+	background: transparent;
+}
+::-webkit-scrollbar-track{
+    margin-block: 0em;
+    background: none;
+}
+::-webkit-scrollbar-thumb{
+    background: #DC0000;
 }
 
 
