@@ -18,7 +18,7 @@ body{
     background: none;
 }
 ::-webkit-scrollbar-thumb{
-    background: #DC0000;
+    background: #ff00ff;
     border-radius: 5px;
 }
 
